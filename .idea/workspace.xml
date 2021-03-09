@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4b3c439-a40b-4c6e-b9f7-8dcee1f2f4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615265434986</updated>
-      <workItem from="1615265454398" duration="1046000" />
+      <workItem from="1615265454398" duration="1325000" />
     </task>
     <servers />
   </component>
@@ -44,6 +48,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="775" y="461" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615269530773">
+      <screen x="52" y="23" width="1996" height="1257" />
+    </state>
+    <state x="775" y="461" key="#com.intellij.fileTypes.FileTypeChooser/52.23.1996.1257@52.23.1996.1257" timestamp="1615269530773" />
     <state x="727" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1615265454390">
       <screen x="52" y="23" width="1996" height="1257" />
     </state>
