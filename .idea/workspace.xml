@@ -2,18 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4b3c439-a40b-4c6e-b9f7-8dcee1f2f4fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pVPlRN7tdLZWOoj8hM9GvHCIxk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615265434986</updated>
-      <workItem from="1615265454398" duration="1325000" />
+      <workItem from="1615265454398" duration="1602000" />
+      <workItem from="1615313759982" duration="6836000" />
     </task>
     <servers />
   </component>
@@ -52,9 +75,21 @@
       <screen x="52" y="23" width="1996" height="1257" />
     </state>
     <state x="775" y="461" key="#com.intellij.fileTypes.FileTypeChooser/52.23.1996.1257@52.23.1996.1257" timestamp="1615269530773" />
-    <state x="727" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1615265454390">
+    <state x="837" y="412" key="FileChooserDialogImpl" timestamp="1615323157655">
       <screen x="52" y="23" width="1996" height="1257" />
     </state>
-    <state x="727" y="483" key="com.intellij.ide.util.TipDialog/52.23.1996.1257@52.23.1996.1257" timestamp="1615265454390" />
+    <state x="837" y="412" key="FileChooserDialogImpl/52.23.1996.1257@52.23.1996.1257" timestamp="1615323157655" />
+    <state x="379" y="366" width="1311" height="812" key="SettingsEditor" timestamp="1615330503473">
+      <screen x="52" y="23" width="1996" height="1257" />
+    </state>
+    <state x="379" y="366" width="1311" height="812" key="SettingsEditor/52.23.1996.1257@52.23.1996.1257" timestamp="1615330503473" />
+    <state x="727" y="483" key="com.intellij.ide.util.TipDialog" timestamp="1615313761247">
+      <screen x="52" y="23" width="1996" height="1257" />
+    </state>
+    <state x="727" y="483" key="com.intellij.ide.util.TipDialog/52.23.1996.1257@52.23.1996.1257" timestamp="1615313761247" />
+    <state x="767" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1615352631970">
+      <screen x="52" y="23" width="1996" height="1257" />
+    </state>
+    <state x="767" y="335" width="670" height="676" key="search.everywhere.popup/52.23.1996.1257@52.23.1996.1257" timestamp="1615352631970" />
   </component>
 </project>
